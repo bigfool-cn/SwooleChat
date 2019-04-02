@@ -1,23 +1,25 @@
 
-### PHP + Swoole 开发的简单聊天室demo, 主要是 websockt 的应用,欢迎 start 。
+### PHP + Swoole 开发的简单聊天室demo, 欢迎 start 。
+项目加入task异步任务，所有聊天信息交给task处理。
 
 ## 环境要求
 * PHP >= 7.0
 * Swoole
 * composer
+
 ## 安装
 ```
 git clone https://github.com/bigfool-cn/SwooleChat.git
 composer install
 ```
 
-## 启动 websockt
+## 启动 websockt服务
 ```
 cd ./SwooleChat
 php webim_server.php
 ```
 
-## 启动 PHP 内置服务器
+## 启动 PHP 内置服务器 or 使用nginx代理html
 ```
 cd ./public
 php -S localhost:8000
