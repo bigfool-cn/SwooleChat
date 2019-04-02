@@ -25,7 +25,7 @@ php -S localhost:8000
 浏览器访问 localhost:8000 即可进入聊天
 
 ## 参考项目
-![webim](https://github.com/moell-peng/webim.git "webim")
+[webim](https://github.com/moell-peng/webim.git "webim")
 
 ## License
 MIT
