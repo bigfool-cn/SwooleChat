@@ -7,7 +7,7 @@ $(function() {
 });
 
 var config = {
-  server : 'ws://193.112.43.41:9501'
+  server : 'ws://127.0.0.1:9501'
 };
 
 var webim = {
