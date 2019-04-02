@@ -7,10 +7,6 @@
 * composer
 ## 安装
 ```
-composer create-project -s dev bigfool-cn/SwooleChat
-```
-or
-```
 git clone https://github.com/bigfool-cn/SwooleChat.git
 composer install
 ```
