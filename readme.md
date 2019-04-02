@@ -1,6 +1,7 @@
 
 ### PHP + Swoole 开发的简单聊天室demo, 欢迎 start 。
 项目加入task异步任务，所有聊天信息交给task处理。
+[在线体验](http:chat.bigfool.cn)
 
 ## 环境要求
 * PHP >= 7.0
